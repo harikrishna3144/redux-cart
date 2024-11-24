@@ -1,0 +1,56 @@
+{
+  "login": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "0669",
+      "username": "Hari ",
+      "password": "hari123456"
+    },
+    {
+      "id": "3f6a",
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "2153",
+      "email": "mopuriharikrishna3144@gmail.com",
+      "password": "Login@123"
+    }
+  ],
+  "register": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "0669",
+      "username": "Hari ",
+      "password": "hari123456"
+    },
+    {
+      "id": "3f6a",
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "7eb7",
+      "email": "harikrishnamopuri4@gmail.com",
+      "password": "Hari@123"
+    },
+    {
+      "id": "d920",
+      "email": "mopuriharikrishna3144@gmail.com",
+      "password": "Hari@123"
+    },
+    {
+      "id": "4ab3",
+      "email": "harikrishnamopuri4@gmail.com",
+      "password": "register@123"
+    }
+  ]
+}
